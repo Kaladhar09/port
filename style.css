@@ -1,0 +1,144 @@
+.name{
+  margin-right: 600px;
+  color:white;
+  margin-top:4px;
+  border:30px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+
+
+}
+.row1{
+  height:75px;
+  width:1489px;
+  background-color: black;
+  opacity:0.5;
+  display: flex;
+}
+.names{
+  display:flex;
+  justify-content: center;
+  gap:25px;
+  text-decoration: none;
+  list-style: none;
+  margin-top:32px;
+  font-size: 20px;
+  font-style: normal;
+color: white;
+
+
+
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+img{
+  height:500px;
+  width:500px;
+  border-radius: 50%;
+  border: 3px solid black;
+  /* margin-top: 100px; */
+  margin-left: 200px;
+}
+.main{
+  display:flex;
+  font-size: 20px;
+  /* font-style: oblique; */
+  margin-top: 125px;
+  position: absolute;
+
+}
+/* .text{
+  margin-top: 200px;
+  margin-right: 600px;
+}
+.nm{
+   font-size: 25px;
+
+   width:3000px;
+   height:10px;
+} */
+.content{
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+  align-items:flex-start;
+
+}
+.nm{
+  position: absolute;
+  font-size: 30px;
+  font-family: serif;
+  font-weight: 200;
+}
+.topics{
+  display: flex;
+  /* justify-content: space-between; */
+  /* align-items: center; */
+  GAP:35PX;
+  /* margin-left: 150px; */
+  margin-top: 450px;
+  margin-left: 770px;
+
+}
+.a1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:100px;
+  width:100px;
+  background-color: white;
+  border-radius: 50%;
+  border: 2px solid black;
+
+}
+.a1:hover{
+  /* height:110px;
+  width:110px; */
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.8);
+}
+.topics a{
+  text-decoration: none;
+  color:black;
+}
+#circle1{
+  background-color:  white;
+
+}
+#circle2{
+  background-color:  white;
+}
+#circle3{
+  background-color:  white;
+
+}
+#circle4{
+  background-color: white;
+    /* opacity: 0.5;
+    color: black; */
+}
+.text{
+  margin-top: 150px;
+}
+#circle1:hover,#circle2:hover,#circle3:hover,#circle4:hover{
+  background-color:black;
+}
+.cm{
+  margin-top: 150px;
+  margin-left: 25px;
+  font-size: 30px;
+}
+hr{
+  margin-top: -20px;
+}
+.inst{
+  height:80px;
+  width:80px;
+  margin:0px;
+  margin-right: 100px;
+}
+.inst:hover{
+  height: 100px;
+  width:100px;
+}
